@@ -30,3 +30,7 @@ In today’s fast-paced world, many people struggle to find the perfect outfit t
 ---
 
 StyleSnap is set to revolutionize the way users choose their outfits by combining convenience, personalization, and cutting-edge AI technology. With a user-friendly experience on a familiar platform like WhatsApp, StyleSnap makes fashion accessible, fun, and tailored to everyone’s needs.
+
+![](./Images/1.webp)
+![](./Images/2.webp)
+![](./Images/3.jpg)
