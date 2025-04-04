@@ -8,6 +8,11 @@
 
 ![StyleSnap Demo](./Images/1.webp)
 
+## 📺 Demo Video
+
+[![StyleSnap Demo Video](https://img.youtube.com/vi/LGll3aSwN0o/0.jpg)](https://www.youtube.com/shorts/LGll3aSwN0o)
+*Click on the image above to watch the StyleSnap demo video on YouTube*
+
 ## 📋 Description
 
 StyleSnap is an innovative fashion assistant powered by AI, designed to transform the way users interact with their wardrobe. By simply uploading a picture of themselves or a garment via WhatsApp, StyleSnap helps users discover personalized outfit recommendations. 
