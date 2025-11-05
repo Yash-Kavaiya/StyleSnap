@@ -344,18 +344,18 @@ graph LR
 gantt
     title StyleSnap Development Roadmap
     dateFormat  YYYY-MM
-    section Phase 1
-    WhatsApp Integration       :done, 2024-01, 2024-02
-    Basic Virtual Try-On       :done, 2024-02, 2024-03
-    section Phase 2
-    Advanced AI Features       :active, 2024-03, 2024-06
-    E-commerce Integration     :2024-06, 2024-09
-    section Phase 3
-    AR Virtual Try-On         :2024-09, 2024-12
-    Social Media Integration  :2024-12, 2025-03
-    section Phase 4
-    Machine Learning Personalization :2025-03, 2025-06
-    Mobile App Launch         :2025-06, 2025-09
+    section Phase 1 (Completed)
+    WhatsApp Integration       :done, 2024-01, 2024-03
+    Basic Virtual Try-On       :done, 2024-01, 2024-03
+    section Phase 2 (Current)
+    Advanced AI Features       :active, 2024-11, 2025-03
+    E-commerce Integration     :2025-03, 2025-06
+    section Phase 3 (Planned)
+    AR Virtual Try-On         :2025-06, 2025-09
+    Social Media Integration  :2025-09, 2025-12
+    section Phase 4 (Future)
+    Machine Learning Personalization :2025-12, 2026-03
+    Mobile App Launch         :2026-03, 2026-06
 ```
 
 ## 📞 Support & Contact
@@ -364,7 +364,7 @@ gantt
 |---------|------|---------|
 | 🐛 **Issues** | [GitHub Issues](https://github.com/Yash-Kavaiya/StyleSnap/issues) | Bug reports and feature requests |
 | 💬 **Discussions** | [GitHub Discussions](https://github.com/Yash-Kavaiya/StyleSnap/discussions) | Community support and Q&A |
-| 📧 **Email** | [Contact](mailto:support@stylesnap.com) | Direct support |
+| 👤 **Maintainer** | [@Yash-Kavaiya](https://github.com/Yash-Kavaiya) | Direct contact via GitHub |
 
 ## 📄 License
 
